@@ -1,0 +1,1 @@
+In this project we try to display a set a numbers present in an array one by one. We then try to find out the smallest and the largest nos. out of the given list and display them.
